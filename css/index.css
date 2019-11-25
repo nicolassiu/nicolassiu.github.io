@@ -6,7 +6,7 @@
   --darkgray: #333;
   --navy: #17050f;
   --blue: #082840;
-  --white: rgb(211, 211, 211);
+  --white: #eee;
 }
 * {
   box-sizing: border-box;
@@ -22,7 +22,9 @@ body {
 
 .main-con {
   width: 1000px;
-  margin: 0 auto;
+  margin: 20px auto;
+  background-color: white;
+  box-shadow: 0 0 30px #333;
 }
 p:last-child {
   margin-bottom: 0;
