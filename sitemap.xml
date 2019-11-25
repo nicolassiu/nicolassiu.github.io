@@ -2,11 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://nicolassiu.github.io/posts/firstpost/</loc>
-    <lastmod>2018-05-01</lastmod>
-  </url>
-  
-  <url>
     <loc>https://nicolassiu.github.io/posts/secondpost/</loc>
     <lastmod>2018-07-04</lastmod>
   </url>
@@ -19,6 +14,11 @@
   <url>
     <loc>https://nicolassiu.github.io/posts/fourthpost/</loc>
     <lastmod>2018-09-30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicolassiu.github.io/posts/firstpost/</loc>
+    <lastmod>2019-11-25</lastmod>
   </url>
   
   <url>
@@ -52,12 +52,12 @@
   </url>
   
   <url>
-    <loc>https://nicolassiu.github.io/tags/number-2/</loc>
+    <loc>https://nicolassiu.github.io/tags/another-tag/</loc>
     <lastmod>2019-11-25</lastmod>
   </url>
   
   <url>
-    <loc>https://nicolassiu.github.io/tags/another-tag/</loc>
+    <loc>https://nicolassiu.github.io/tags/number-2/</loc>
     <lastmod>2019-11-25</lastmod>
   </url>
 </urlset>
